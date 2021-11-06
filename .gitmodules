@@ -1,0 +1,27 @@
+[submodule "engenious.ContentTool"]
+	path = engenious.ContentTool
+	url = https://github.com/engeniousproject/engenious.ContentTool.git
+[submodule "engenious.Pipeline"]
+	path = engenious.Pipeline
+	url = https://github.com/engeniousproject/engenious.Pipeline.git
+[submodule "engenious.Pipeline.Core"]
+	path = engenious.Pipeline.Core
+	url = https://github.com/engeniousproject/engenious.Pipeline.Core.git
+[submodule "engenious"]
+	path = engenious
+	url = https://github.com/engeniousproject/engenious.git
+[submodule "engenious.Avalonia"]
+	path = engenious.Avalonia
+	url = https://github.com/engeniousproject/engenious.Avalonia.git
+[submodule "engenious.UI"]
+	path = engenious.UI
+	url = https://github.com/engeniousproject/engenious.UI.git
+[submodule "engenious.WinForms"]
+	path = engenious.WinForms
+	url = https://github.com/engeniousproject/engenious.WinForms.git
+[submodule "engenious.Templates"]
+	path = engenious.Templates
+	url = https://github.com/engeniousproject/engenious.Templates.git
+[submodule "engenious.Sample"]
+	path = engenious.Sample
+	url = https://github.com/engeniousproject/engenious.Sample.git
